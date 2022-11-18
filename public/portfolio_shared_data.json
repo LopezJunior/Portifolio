@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "name": "Mauricio Lopes",
+    "titles": [
+      "Full Stack Developer",
+      "Junior Developer",
+      "Front-End Developer",
+      "Back-End Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/LopezJunior",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/mauricio--lopes/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "60"
+      },
+      {
+        "name": "Nest",
+        "class": "devicon-nestjs-plain",
+        "level": "60"
+      },
+      {
+        "name": "Postgress",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Styled Components",
+        "class": "devicon-appwrite-plain",
+        "level": "60"
+      }
+    ]
+  }
+}

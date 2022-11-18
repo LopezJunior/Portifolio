@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 My name is Mauricio Lopes, Full Stack Developer, with experience in web development, Passionate about technology, always looking for new technologies for my personal and professional improvement. Currently focusing on development using JavaScript, TypeScript, Html, Css, Styled Components, React, NodeJS, MongoDB, PostgreSQL among other technologies used to create applications.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "formation"
+    }
+  },
+  "projects": [
+    {
+      "title": "E-commerce manager",
+      "startDate": "2022",
+      "description": "Site / application developed for Boot camp for the company CloudWalk, from a petshop E-commerce, where the manager of this E-commerce can have access to an administration area, being able to add or change products, also upload spreadsheets with data for their products.",
+      "images": [
+        "images/portfolio/boot2/p1.png",
+        "images/portfolio/boot2/p2.png",
+        "images/portfolio/boot2/p3.png",
+        "images/portfolio/boot2/p4.png",
+        "images/portfolio/boot2/p5.png",
+        "images/portfolio/boot2/p6.png"
+      ],
+      "url": "https://github.com/orgs/CloudWalk-Team-B/repositories",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgress"
+        },
+        {
+          "class": "devicon-appwrite-plain",
+          "name": "Styled Components"
+        },
+        {
+          "class": "devicon-cmake-plain",
+          "name": "Prisma"
+        }
+      ]
+    },
+    {
+      "title": "Online Bingo",
+      "startDate": "2022",
+      "description": "Project developed for Bootcamp for the company Ploomes, Bingo is an application where the user can enter to have fun, once he creates his user he can choose a certain amount of cards, as well as drawn numbers to increase the difficulty, then he will be able to play his bingo, for the championship belt",
+      "images": [
+        "images/portfolio/boot1/p1.png",
+        "images/portfolio/boot1/p2.png",
+        "images/portfolio/boot1/p3.png",
+        "images/portfolio/boot1/p4.png",
+        "images/portfolio/boot1/p5.png",
+        "images/portfolio/boot1/p6.png",
+        "images/portfolio/boot1/p7.png",
+        "images/portfolio/boot1/p8.png"
+      ],
+      "url": "https://ultimatebingochampionship.vercel.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgress"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku"
+        }
+      ]
+    },
+    {
+      "title": "Sales system",
+      "startDate": "2018",
+      "description": "System developed with the objective of performing sales and issuing product tickets, for parties or events held at Paróquia Santo Antonio de Imbituva - Pr",
+      "images": [
+        "images/portfolio/caixa/p1.png",
+        "images/portfolio/caixa/p2.png",
+        "images/portfolio/caixa/p3.png"
+      ],
+      "url": "https://github.com/LopezJunior/Projeto-Caixas",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "Graphql"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongo Db"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Course Focused on Full Stack web development",
+      "title": "Full Stack Developer",
+      "years": "01.2022 - 01.2023",
+      "mainTech": ["Blue Ed Tech"],
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "NestJs",
+        "Prisma",
+        "Postgress",
+        "Next",
+        "Git",
+        "Html 5",
+        "Css 3",
+        "Styled Components"
+      ]
+    },
+    {
+      "company": "high school Santo Antonio - Imbituva - Pr",
+      "title": "high school",
+      "years": "01.2019 - 12.2021",
+      "mainTech": ["schooling"],
+      "technologies": [""]
+    }
+  ]
+}
